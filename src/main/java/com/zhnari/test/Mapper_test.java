@@ -1,3 +1,4 @@
+/*
 package com.zhnari.test;
 
 import org.junit.Test;
@@ -9,11 +10,13 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 
 
+*/
 /**
  * 测试dao层的方法
  * @author ASUS
  *
- */
+ *//*
+
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
@@ -25,3 +28,4 @@ public class Mapper_test  {
 	}
 	
 }
+*/
