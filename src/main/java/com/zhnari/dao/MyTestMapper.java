@@ -1,5 +1,9 @@
 package com.zhnari.dao;
 
+import com.zhnari.entity.MyTest;
+
+import java.util.List;
+
 /**
  * Description:
  *
@@ -7,5 +11,8 @@ package com.zhnari.dao;
  * @date 2018年12月21日 16:55
  * version 1.0
  */
-public class MyTestMapper {
+
+public interface MyTestMapper {
+
+    public List<MyTest> query();
 }
